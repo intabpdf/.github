@@ -1,12 +1,6 @@
-## Hi there 👋
+## InTab PDF 
+### Open source PDF tools that run entirely on your device.
 
-<!--
+InTabPDF is a community driven project to build a collection of simple and useful PDF tools for web desktop and mobile. 
+Your files stay on your device. The PDF processing happens locally so files are never uploaded to cloud or processed on a server. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
