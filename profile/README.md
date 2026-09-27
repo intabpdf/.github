@@ -1,4 +1,4 @@
-## InTab PDF 
+## InTabPDF 
 ### Open source PDF tools that run entirely on your device.
 
 InTabPDF is a community driven project to build a collection of simple and useful PDF tools for web desktop and mobile. 
